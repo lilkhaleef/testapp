@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">testapp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_mesaage">Type a mesaage</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="online">•Online</string>
+    <string name="enter_your_encryption_key_to_continue">Enter your Encryption key to Continue</string>
+    <string name="enter_your_256_bits_encryption_key">Enter your 256 bits encryption key</string>
+    <string name="encrypt_send_message"><![CDATA[Encrypt & Send message]]></string>
+</resources>
